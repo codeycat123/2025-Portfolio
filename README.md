@@ -1,0 +1,1 @@
+Hi! Welcome to my portfolio repository! My name is Eden Wilson, and I am a rising sophomore computer science major at Spelman College. This repository contains some of my projects in Python and C++, including a menu-driven beauty shop simulator, a Game of Life simulator, and a Blackjack simulator. 
